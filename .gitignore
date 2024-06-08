@@ -1,0 +1,2 @@
+transport_layer_api/migrations/**
+transport_layer_api/__pycache__/**
